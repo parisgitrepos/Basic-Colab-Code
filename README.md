@@ -1,29 +1,13 @@
-# README #
+# Basic Colab Code #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This repo provides basic code for my Colab projects.
 
-### What is this repository for? ###
+### Current Code Included ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Cloning git repos into Drive
+* Commit/push git repos to BitBucket
+* Pull from BitBucket
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+### Notes ###
+* Currently this is primarily designed for my Google Drive file hierarchy meaing most paths are customized for my needs
+* git_key stored in a separate document in my Google Drive
