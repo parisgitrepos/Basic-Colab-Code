@@ -9,5 +9,6 @@ This repo provides basic code for my Colab projects.
 * Pull from BitBucket
 
 ### Notes ###
+* Google Drive must be mounted to Colab project
 * Currently this is primarily designed for my Google Drive file hierarchy meaing most paths are customized for my needs
 * git_key stored in a separate document in my Google Drive
